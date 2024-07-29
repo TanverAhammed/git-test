@@ -10,7 +10,7 @@ public class TestController {
     @GetMapping
     @ResponseBody
     public String test() {
-        return "test demo";
+        return "test demo in Java";
     }
 
 }
